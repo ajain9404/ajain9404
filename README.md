@@ -27,7 +27,6 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-12100E?style=for-the-badge&logo=linux&logoColor=white)
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajain9404&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ajain9404" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajain9404&show_icons=true&locale=en&theme=tokyonight" alt="ajain9404" /></p>
